@@ -1,3 +1,8 @@
-body { 
-    background: #f0ebe3; 
+/* CSS refactor work */
+body {
+  background-color: #f5f5f5;
+}
+
+h1 {
+  color: brown;
 }
